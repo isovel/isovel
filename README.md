@@ -5,4 +5,4 @@
 - 📫 How to reach me: **i keep my contact info [here](https://isota.ch/contact)!**
 - 😄 Pronouns: **[he/him](https://en.pronouns.page/@toastorbtoasted)**
 - ⚡ Fun fact: **despite using windows, I actually hate it**
-[visitors](https://visitor-badge.glitch.me/badge?page_id=toastythetoaster.toastythetoaster)
+[img](https://visitor-badge.glitch.me/badge?page_id=toastythetoaster.toastythetoaster)
