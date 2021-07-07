@@ -7,4 +7,4 @@
 
 - 🌱 I’m currently learning **Python, C++, VueJS, and ReactJS**
 - 📫 How to reach me: **i keep my contact info [here](https://isota.ch/contact)!**
-- 😄 Pronouns: **[any!](https://en.pronouns.page/@toastorbtoasted)**
+- 😄 Pronouns: **[he/they](https://en.pronouns.page/@toastorbtoasted)**
