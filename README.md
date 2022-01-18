@@ -1,6 +1,6 @@
 ### howdy
 
-- 🌱 I’m currently learning **Python, C++, VueJS, and ReactJS**
+- 🌱 I’m currently learning **C++ and VueJS**
 - 📫 How to reach me: **i keep my contact info [here](https://isota.ch/contact)!**
 - 😄 Pronouns: **[he/they](https://en.pronouns.page/@toastorbtoasted)**
 
