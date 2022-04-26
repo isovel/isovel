@@ -6,5 +6,5 @@
 
 ![](https://nocache.advaith.workers.dev/?url=https://visitor-badge.glitch.me/badge?page_id=toastythetoaster.toastythetoaster)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/255515821541949440)](https://discord.com/users/255515821541949440)
+[![Last.fm Activity](https://nocache.advaith.workers.dev/?url=https://toru.kio.dev/api/v1/T0457Y?theme=dark)](https://last.fm/user/T0457Y)
 
