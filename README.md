@@ -1,6 +1,6 @@
 ### howdy
 
-- 💫 **[he/they](https://en.pronouns.page/@toastorbtoasted)**
+- 💫 Pronouns: **[he/they](https://en.pronouns.page/@toastorbtoasted)**
 - 🧠 Currently learning: **Rust**
 
 ![](https://nocache.advaith.workers.dev/?url=https://visitor-badge.glitch.me/badge?page_id=toastythetoaster.toastythetoaster)
