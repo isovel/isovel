@@ -8,6 +8,7 @@ I spend almost all of my free time either working on [silly side-projects](https
 
 cool projects i've worked on:
 ---
+- [ipv4.party](https://ipv4.party): A war of attrition, fought by exerting control over as many IP addresses as possible!
 - [FixTweet](https://github.com/FixTweet): Embed Twitter videos, polls, translations, & more on Discord and Telegram!
 - [Barq](https://barq.app): The next-generation social app for furries.
 
