@@ -1,4 +1,4 @@
-![](https://nocache.advaith.workers.dev/?url=https://visitor-badge.glitch.me/badge?page_id=toastythetoaster.toastythetoaster)
+<!-- ![](https://nocache.advaith.workers.dev/?url=https://visitor-badge.glitch.me/badge?page_id=toastythetoaster.toastythetoaster) -->
 
 heya, i'm toast!
 ---
