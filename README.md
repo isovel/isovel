@@ -44,3 +44,4 @@ cool projects i've worked on:
     </div>
   </div>
 </div>
+<a rel="me" href="https://floofy.tech/@isotach" style="display:none"></a>
