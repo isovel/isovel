@@ -1,10 +1,10 @@
 <!-- ![](https://nocache.advaith.workers.dev/?url=https://visitor-badge.glitch.me/badge?page_id=toastythetoaster.toastythetoaster) -->
 
-heya, i'm toast!
+heya, i'm iso!
 ---
-I'm a college student and full-stack dev from upstate NY
+I'm a full-stack developer (and occasional digital artist) from upstate NY
 
-I spend almost all of my free time either working on [silly side-projects](https://isota.ch/projects) or chilling with people on Discord or in VR!
+I spend almost all of my free time either working on [silly side-projects](https://isota.ch/projects) or hanging out on Discord or in VR!
 
 cool projects i've worked on:
 ---
