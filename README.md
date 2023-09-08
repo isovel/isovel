@@ -27,7 +27,7 @@ cool projects i've worked on:
     </div>
     <div>
       <a href="https://last.fm/user/T0457Y" target="_blank">
-        <img src="https://nocache.advaith.workers.dev/?url=https://toru.kio.dev/api/v1/T0457Y?url=https://isota.ch/assets/toru.svg" alt="Last.fm Activity">
+        <img src="https://nocache.advaith.workers.dev/?url=https://toru.kio.dev/api/v1/isotach?url=https://isota.ch/assets/toru.svg" alt="Last.fm Activity">
       </a>
     </div>
   </div>
