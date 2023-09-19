@@ -22,12 +22,12 @@ cool projects i've worked on:
   <div style="dislpay:flex;flex-direction:column;">
     <div>
       <a href="https://discord.com/users/255515821541949440" target="_blank">
-        <img src="https://nocache.advaith.workers.dev/?url=https://lanyard.cnrad.dev/api/255515821541949440" alt="Discord Presence">
+        <img src="https://lanyard.cnrad.dev/api/255515821541949440" alt="Discord Presence">
       </a>
     </div>
     <div>
-      <a href="https://last.fm/user/T0457Y" target="_blank">
-        <img src="https://nocache.advaith.workers.dev/?url=https://toru.kio.dev/api/v1/isotach?url=https://isota.ch/assets/toru.svg" alt="Last.fm Activity">
+      <a href="https://last.fm/user/isotach" target="_blank">
+        <img src="https://toru.kio.dev/api/v1/isotach?url=https://isota.ch/assets/toru.svg" alt="Last.fm Activity">
       </a>
     </div>
   </div>
