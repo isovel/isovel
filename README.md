@@ -1,13 +1,11 @@
 <!-- ![](https://nocache.advaith.workers.dev/?url=https://visitor-badge.glitch.me/badge?page_id=toastythetoaster.toastythetoaster) -->
 
-heya, i'm iso!
----
+## heya, i'm iso!
 I'm a full-stack developer (and occasional digital artist) from upstate NY
 
 I spend almost all of my free time either working on [silly side-projects](https://isota.ch/projects) or hanging out on Discord or in VR!
 
-cool projects i've worked on:
----
+## cool projects i've worked on:
 - [ipv4.party](https://ipv4.party): A war of attrition, fought by exerting control over as many IP addresses as possible!
 - [Zen](https://zen.kio.dev): A simple irc-style chat app.
 - [FixTweet](https://github.com/FixTweet): Embed Twitter videos, polls, translations, & more on Discord and Telegram!
