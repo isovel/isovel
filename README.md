@@ -3,7 +3,7 @@
 ## heya, i'm iso!
 I'm a full-stack developer (and occasional digital artist) from upstate NY
 
-I spend almost all of my free time either working on [silly side-projects](https://isota.ch/projects) or hanging out on Discord or in VR!
+I spend almost all of my free time either working on [silly side-projects](https://isota.ch/projects) or hanging out with friends on Discord or in VR!
 
 ## cool projects i've worked on:
 - [ipv4.party](https://ipv4.party): A war of attrition, fought by exerting control over as many IP addresses as possible!
