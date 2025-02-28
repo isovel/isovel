@@ -29,7 +29,7 @@ I spend almost all of my free time either working on [silly side-projects](https
     </div>
     <div>
       <a href="https://last.fm/user/isotach" target="_blank">
-        <img src="https://toru.kio.dev/api/v1/isotach?url=https://isota.ch/assets/toru.svg" alt="Last.fm Activity">
+        <img src="https://toru.kio.dev/api/v1/isotach?url=https://archive.isota.ch/assets/toru.svg" alt="Last.fm Activity">
       </a>
     </div>
   </div>
