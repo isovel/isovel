@@ -1,9 +1,9 @@
 <!-- ![](https://nocache.advaith.workers.dev/?url=https://visitor-badge.glitch.me/badge?page_id=toastythetoaster.toastythetoaster) -->
 
 ## heya, i'm iso!
-I'm a full-stack developer (and occasional digital artist) from upstate NY
+I'm a full-stack developer (and occasional digital artist) from Seattle
 
-I spend almost all of my free time either working on [silly side-projects](https://isota.ch/projects) or hanging out with friends on Discord or in VR!
+I spend almost all of my free time either working on [fun side-projects](https://isota.ch/projects) or hanging out with friends on Discord or in VR!
 
 ## cool projects i've worked on:
 - [ipv4.party](https://ipv4.party): A war of attrition, fought by exerting control over as many IP addresses as possible!
@@ -11,22 +11,12 @@ I spend almost all of my free time either working on [silly side-projects](https
 - [FixTweet](https://github.com/FixTweet): Embed Twitter videos, polls, translations, & more on Discord and Telegram!
 - [Furality Online Xperience](https://furality.org): The virtual reality furry convention that not only takes place in VR, but celebrates the VR furry fandom.
 - [BARQ!](https://barq.app): The next-generation social app for furries.
-- <details>
-  <summary>🔞 NSFW 🔞</summary>
-
-  🔞 [Yiffer](https://yiffer.xyz): The internet's best collection of quality furry comics, easily readable and free!
-</details>
 
 []()
 ---
 
 <div style="display:flex;flex-direction:row;">
   <div style="dislpay:flex;flex-direction:column;">
-    <div>
-      <a href="https://discord.com/users/255515821541949440" target="_blank">
-        <img src="https://lanyard.cnrad.dev/api/255515821541949440" alt="Discord Presence">
-      </a>
-    </div>
     <div>
       <a href="https://last.fm/user/isotach" target="_blank">
         <img src="https://toru.kio.dev/api/v1/isotach?url=https://archive.isota.ch/assets/toru.svg" alt="Last.fm Activity">
